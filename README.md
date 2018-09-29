@@ -1,1 +1,1 @@
-Learning Git and Github is really fun! I enjoy it.
+Learning Git and Github is really fun! I enjoy it very much!
